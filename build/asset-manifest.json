@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VEMS-Front_End/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/VEMS-Front_End/static/js/main.2171f491.chunk.js",
+    "main.js.map": "/VEMS-Front_End/static/js/main.2171f491.chunk.js.map",
+    "runtime-main.js": "/VEMS-Front_End/static/js/runtime-main.3e45528f.js",
+    "runtime-main.js.map": "/VEMS-Front_End/static/js/runtime-main.3e45528f.js.map",
+    "static/css/2.ade8771d.chunk.css": "/VEMS-Front_End/static/css/2.ade8771d.chunk.css",
+    "static/js/2.c1ed64dc.chunk.js": "/VEMS-Front_End/static/js/2.c1ed64dc.chunk.js",
+    "static/js/2.c1ed64dc.chunk.js.map": "/VEMS-Front_End/static/js/2.c1ed64dc.chunk.js.map",
+    "static/js/3.a89a10b6.chunk.js": "/VEMS-Front_End/static/js/3.a89a10b6.chunk.js",
+    "static/js/3.a89a10b6.chunk.js.map": "/VEMS-Front_End/static/js/3.a89a10b6.chunk.js.map",
+    "index.html": "/VEMS-Front_End/index.html",
+    "static/css/2.ade8771d.chunk.css.map": "/VEMS-Front_End/static/css/2.ade8771d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/VEMS-Front_End/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c1ed64dc.chunk.js.LICENSE.txt": "/VEMS-Front_End/static/js/2.c1ed64dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e45528f.js",
+    "static/css/2.ade8771d.chunk.css",
+    "static/js/2.c1ed64dc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2171f491.chunk.js"
+  ]
+}
